@@ -3,6 +3,7 @@
 GSIIの研究「遺伝的アルゴリズムの効率的なパラメータについて」にあたって作成したソースコードのリポジトリです。
 
 ## 各ファイルの説明
+<pre>
 .
 ├── onemax Onemax問題のソースコード
 │   ├── findoptval.py onemax問題に対するパラメータの最適解を求める
@@ -16,6 +17,7 @@ GSIIの研究「遺伝的アルゴリズムの効率的なパラメータにつ�
 └── weightedonemax weighted onemax問題のソースコード
     ├── findoptval.py weighted onemax問題に対するパラメータの最適解を求める
     └── fitness.py weighted onemax問題に対するパラメータの最適解を求める
+</pre>
 
 ## ライセンス
 本リポジトリはMITライセンスのもとで公開されています。
