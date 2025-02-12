@@ -16,7 +16,7 @@ GSIIの研究「遺伝的アルゴリズムの効率的なパラメータにつ�
 │   └── fitness.py 評価関数(tsp問題に基づいたもの) 
 └── weightedonemax weighted onemax問題のソースコード
     ├── findoptval.py weighted onemax問題に対するパラメータの最適解を求める
-    └── fitness.py weighted onemax問題に対するパラメータの最適解を求める
+    └── fitness.py 評価関数(weighted onemax問題に基づいたもの)
 </pre>
 
 ## ライセンス
