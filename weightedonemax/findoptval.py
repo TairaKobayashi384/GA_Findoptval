@@ -10,7 +10,6 @@ MAX_CROSSOVER = 2
 
 # Onemax問題の評価関数
 def fitness(individual):
-    #1の数をカウント
     return fit.genetic_algorithm(individual[0],individual[1],individual[2],individual[3],individual[4],individual[5],individual[6],individual[7])
 
 # 初期集団を生成
