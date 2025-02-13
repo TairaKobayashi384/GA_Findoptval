@@ -4,7 +4,7 @@ import time
 # Onemax問題の評価関数
 def fitness(individual):
     result = 0
-    # 10進数に変換
+    # 評価値を算出
     for i in range(len(individual)): 
         result += ((1/2)**i) * individual[i] * 50
 
